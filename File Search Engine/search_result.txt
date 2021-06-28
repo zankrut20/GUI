@@ -1,12 +1,20 @@
-C:/Users/zankr/Desktop/R/Anjali/Amit_ANOVA.xlsx
-C:/Users/zankr/Desktop/R/Data analysis/anova-rcbd.R
-C:/Users/zankr/Desktop/R/Designs/anova-crd.R
-C:/Users/zankr/Desktop/R/Designs/crd-anova.R
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/MASS/help/anova.negbin.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/MASS/html/anova.negbin.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/anova.gls.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/anova.lme.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/print.anova.lme.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/html/anova.gls.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/html/anova.lme.html
-C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/tests/anova.gls.R
+G:/Analysis Final/graph.R
+G:/Analysis Final/mean performance.R
+G:/Analysis Final/mean performance2.R
+G:/Analysis Final/mean.R
+G:/Analysis Final/no yield.R
+G:/Analysis Final/pre-graph.R
+G:/Analysis Final/source_code.R
+G:/Analysis Final/yield.R
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/debug-breakpoints.pper
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/files-pane.pper
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/packages-pane.pper
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/source-pane.pper
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/windowlayoutstate.pper
+G:/Analysis Final/.Rproj.user/5AA28A55/pcs/workbench-pane.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/debug-breakpoints.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/files-pane.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/source-pane.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/source-window.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/windowlayoutstate.pper
+G:/Analysis Final/.Rproj.user/82F46FC4/pcs/workbench-pane.pper
