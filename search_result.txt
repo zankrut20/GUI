@@ -1,0 +1,12 @@
+C:/Users/zankr/Desktop/R/Anjali/Amit_ANOVA.xlsx
+C:/Users/zankr/Desktop/R/Data analysis/anova-rcbd.R
+C:/Users/zankr/Desktop/R/Designs/anova-crd.R
+C:/Users/zankr/Desktop/R/Designs/crd-anova.R
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/MASS/help/anova.negbin.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/MASS/html/anova.negbin.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/anova.gls.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/anova.lme.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/help/print.anova.lme.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/html/anova.gls.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/html/anova.lme.html
+C:/Users/zankr/Desktop/R/Pinaki/renv/library/R-4.1/x86_64-w64-mingw32/nlme/tests/anova.gls.R
